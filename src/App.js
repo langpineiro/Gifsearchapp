@@ -1,9 +1,9 @@
-import Card from './components/Card/Card'
+import GifGrid from './components/GifGrid/GifGrid'
 
 function App() {
   return (
     <>
-      <Card/>
+      <GifGrid />
     </>
   );
 }

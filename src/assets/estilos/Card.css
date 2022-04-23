@@ -1,0 +1,12 @@
+#imagenRick{
+    width: 250px;
+    padding: 10px;
+}
+#contenedorCard{
+    height: 300px;
+}
+.configCard{
+    width: 250px;
+    margin: 20px;
+    text-align: center;
+}
